@@ -3,7 +3,7 @@ name: I have a problem with my Flutter application.
 about: You are writing an application with Flutter but the application is crashing
   or throws an exception, a widget is buggy, or something looks wrong.
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
